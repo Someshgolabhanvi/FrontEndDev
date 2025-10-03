@@ -401,7 +401,7 @@ like < > & " '  etc.
 
 
 ## Home Work
-1.Try to print Charecter Entities  and Reserved Words in HTML
+1.Try to print Charecter Entities  and Reserved Words in HTML Link [w3schools](https://www.w3schools.com/html/html_entities.asp)
 
 2.Paly around with HTML tags try to create simple readable webpage with HTML tags
 
