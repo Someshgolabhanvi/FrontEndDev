@@ -402,8 +402,11 @@ like < > & " '  etc.
 
 ## Home Work
 1.Try to print Charecter Entities  and Reserved Words in HTML
+
 2.Paly around with HTML tags try to create simple readable webpage with HTML tags
+
 3.Try to print (a+b)<sup>2</sup> in HTML and see the result
+
 4.Try to print H<sub>2</sub>SO<sub>4</sub> in HTML and see the result
 
 
